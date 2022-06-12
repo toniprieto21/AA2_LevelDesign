@@ -1745,3 +1745,173 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.12-10.24.16:850][424]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYM7FD589D045087BAA098085BC73D85C88.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
 [2022.06.12-10.24.16:885][424]AssetCheck: New page: Asset Save: GYM
 [2022.06.12-10.24.16:885][424]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.28.30:229][913]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.12-10.28.30:245][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.12-10.28.30:245][913]PIE: New page: PIE session: GYM (Jun 12, 2022, 2:28:30 PM)
+[2022.06.12-10.28.30:245][913]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_GYM
+[2022.06.12-10.28.30:307][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061402s)
+[2022.06.12-10.28.30:308][913]LogAIModule: Creating AISystem for world GYM
+[2022.06.12-10.28.30:309][913]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2022.06.12-10.28.30:309][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/GYM.GYM to /Game/FirstPersonBP/Maps/UEDPIE_0_GYM.GYM (0.063376s)
+[2022.06.12-10.28.30:325][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.06.12-10.28.30:333][913]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.12-10.28.30:334][913]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.12-10.28.30:334][913]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.12-10.28.30:334][913]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 1: FrontRight
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 4: BackLeft
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 5: BackRight
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 6: SideLeft
+[2022.06.12-10.28.30:386][913]LogAudioMixer: Display: 7: SideRight
+[2022.06.12-10.28.30:678][913]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (CORSAIR HS70 PRO Wireless Gaming Headset)
+[2022.06.12-10.28.30:678][913]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.12-10.28.30:678][913]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.12-10.28.30:679][913]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.12-10.28.30:679][913]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.12-10.28.30:679][913]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.12-10.28.30:679][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.12-10.28.30:692][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.12-10.28.30:692][913]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.12-10.28.30:692][913]LogInit: FAudioDevice initialized.
+[2022.06.12-10.28.30:692][913]LogAudio: Display: Audio Device (ID: 14) registered with world 'GYM'.
+[2022.06.12-10.28.30:703][913]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.06.12-10.28.30:707][913]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_GYM.GYM up for play (max tick rate 0) at 2022.06.12-12.28.30
+[2022.06.12-10.28.30:708][913]LogWorld: Bringing up level for play took: 0.003799
+[2022.06.12-10.28.30:708][913]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.06.12-10.28.30:711][913]PIE: Server logged in
+[2022.06.12-10.28.30:711][913]PIE: Play in editor total start time 0.476 seconds.
+[2022.06.12-10.28.43:398][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.12-10.28.43:398][404]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_GYM
+[2022.06.12-10.28.43:398][404]LogWorld: UWorld::CleanupWorld for GYM, bSessionEnded=true, bCleanupResources=true
+[2022.06.12-10.28.43:399][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.12-10.28.43:405][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.12-10.28.43:416][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.12-10.28.43:431][404]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.12-10.28.43:432][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.12-10.28.43:433][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.12-10.28.43:453][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.12-10.28.43:455][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.06.12-10.28.43:486][405]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.06.12-10.29.04:138][729]LogEditorViewport: Clicking Background
+[2022.06.12-10.30.34:079][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.30.34:097][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.06.12-10.30.34:168][218]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYM08B1C9BF4EE00A716D1ED48FDCE8B3EF.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.30.34:209][218]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.30.34:209][218]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.31.27:498][966]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.12-10.40.37:640][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.12-10.40.37:712][831]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYM_Auto108EA2BA54D779441C5779C801CFC8ACA.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/Autosaves/Game/FirstPersonBP/Maps/GYM_Auto1.umap'
+[2022.06.12-10.40.37:722][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/GYM' took 0.101
+[2022.06.12-10.40.37:722][831]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2022.06.12-10.42.21:257][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.42.24:423][926]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2022.06.12-10.42.27:998][320]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2022.06.12-10.42.46:045][365]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2022.06.12-10.42.56:878][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.43.29:970][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.43.29:985][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.12-10.43.30:058][622]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYME047B9BD491FDBF4037C79BB58759D72.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.43.30:082][622]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.43.30:083][622]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.43.52:492][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box6)
+[2022.06.12-10.44.02:949][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.44.03:785][842]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.06.12-10.44.10:574][623]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.44.13:687][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.44.14:291][ 34]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2022.06.12-10.44.51:124][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.44.51:869][448]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor4)
+[2022.06.12-10.44.56:948][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.44.57:921][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.44.58:813][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.44.59:214][310]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor4)
+[2022.06.12-10.45.09:942][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.47.42:497][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2022.06.12-10.48.03:388][561]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2022.06.12-10.48.07:525][ 53]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2022.06.12-10.48.12:456][613]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2022.06.12-10.48.15:549][980]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2022.06.12-10.48.18:317][308]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2022.06.12-10.48.41:042][966]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.48.51:397][191]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor8)
+[2022.06.12-10.49.06:621][956]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor7)
+[2022.06.12-10.49.30:871][794]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.12-10.49.34:612][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.49.34:666][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.12-10.49.34:757][219]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYMA6D78C5F488BABA4962DCA87C1F0AB31.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.49.34:783][219]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.49.34:783][219]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.49.38:425][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.49.38:929][672]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2022.06.12-10.49.48:165][746]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor6)
+[2022.06.12-10.49.56:751][741]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.12-10.51.16:763][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2022.06.12-10.51.17:200][931]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor9)
+[2022.06.12-10.51.19:783][228]Cmd: EDIT COPY
+[2022.06.12-10.51.20:251][283]Cmd: EDIT PASTE
+[2022.06.12-10.51.32:619][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.12-10.51.35:714][ 23]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2022.06.12-10.51.37:635][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.51.52:201][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.51.52:217][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.12-10.51.52:283][979]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYME8C7CEB04D9F805ED2F3E080CB10B46F.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.51.52:301][979]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.51.52:301][979]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.55.36:056][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.55.52:311][925]Cmd: TRANSACTION UNDO
+[2022.06.12-10.55.52:311][925]LogEditorTransaction: Undo Scale Actors
+[2022.06.12-10.55.53:510][ 34]Cmd: TRANSACTION UNDO
+[2022.06.12-10.55.53:510][ 34]LogEditorTransaction: Undo Scale Actors
+[2022.06.12-10.56.02:523][ 78]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2022.06.12-10.56.15:574][636]Cmd: TRANSACTION UNDO
+[2022.06.12-10.56.15:575][636]LogEditorTransaction: Undo Scale Actors
+[2022.06.12-10.56.23:981][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.56.23:997][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.12-10.56.24:064][ 45]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYMB0C547BB42FCE6DAA111DCA2D42726C7.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.56.24:093][ 45]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.56.24:093][ 45]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.56.57:251][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.56.57:266][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.06.12-10.56.57:370][538]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYMFB9167BA4E50690352CD92963820F8E0.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.56.57:403][538]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.56.57:403][538]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.57.11:967][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.57.11:981][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.12-10.57.12:036][125]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYM996591744A0AD32AA331889435F43F35.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.57.12:062][125]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.57.12:062][125]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.58.07:979][255]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.12-10.58.25:057][216]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor11)
+[2022.06.12-10.58.27:526][507]Cmd: EDIT CUT
+[2022.06.12-10.58.27:537][507]LogEditorActor: Deleted Actor: TextRenderActor
+[2022.06.12-10.58.27:553][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.06.12-10.58.27:560][507]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.06.12-10.58.39:071][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.58.39:086][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.06.12-10.58.39:143][727]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYM153ABB0642BC86DA0D9C4EAAC2424F92.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.58.39:171][727]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.58.39:171][727]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.58.40:042][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.06.12-10.58.51:207][118]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume)
+[2022.06.12-10.58.55:439][618]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (BlockingVolume2)
+[2022.06.12-10.59.04:480][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2022.06.12-10.59.05:631][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.59.05:648][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.06.12-10.59.05:715][784]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYM9AC9D99D47218EE3E2900F8350AEE7C8.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.59.05:741][784]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.59.05:741][784]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
+[2022.06.12-10.59.10:480][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/GYM" FILE="../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.06.12-10.59.10:495][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.12-10.59.10:562][315]LogSavePackage: Moving '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Saved/GYMF6414872453547564BA9FABB721123AC.tmp' to '../../../../../ENTU/AA2LEVELDESIGN/AA2_LevelDesign/Content/FirstPersonBP/Maps/GYM.umap'
+[2022.06.12-10.59.10:594][315]AssetCheck: New page: Asset Save: GYM
+[2022.06.12-10.59.10:594][315]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/GYM.GYM
